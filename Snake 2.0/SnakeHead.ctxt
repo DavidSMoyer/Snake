@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SnakeHead
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SnakeHead\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SnakeHead()
+comment1.text=\r\n\ Constructor\ of\ the\ object\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SnakeHead\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\r\n\ Checks\ the\ keys\ to\ turn\ the\ snake\ or\ to\ speed\ it\ up.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment4.params=
+comment4.target=void\ addPart()
+comment4.text=\r\n\ Adds\ a\ snake\ part\ at\ the\ current\ x\ and\ y\ coordinates.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment5.params=
+comment5.target=void\ eatFood()
+comment5.text=\r\n\ Eats\ any\ food\ it\ is\ touching,\ changes\ the\ size\ by\ 10,\ score\ by\ 1,\ and\ adds\ another\ piece\ in\ a\ random\ location.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+comment6.params=
+comment6.target=void\ collisionDetection()
+comment6.text=\r\n\ Checks\ if\ the\ player\ is\ touching\ their\ tail\ or\ the\ edge\ of\ the\ world.\ If\ they\ are,\ end\ the\ game.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ nothing.\r\n
+numComments=7

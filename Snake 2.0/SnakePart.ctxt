@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SnakePart
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SnakePart\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lt\ direction
+comment1.target=SnakePart(int,\ int)
+comment1.text=\r\n\ The\ constructor\ of\ the\ object\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ SnakePart\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ getLT()
+comment3.text=\r\n\ Gets\ the\ current\ life\ time\ value\ of\ the\ object.\r\n\ \r\n\ @Param\ None\ There\ are\ no\ parameters.\r\n\ @return\ Returns\ the\ current\ value\ of\ the\ LifeTime\ int\ variable.\r\n
+numComments=4
